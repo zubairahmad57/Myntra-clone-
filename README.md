@@ -3,4 +3,3 @@
 Frontend Developer
 Through constant practice & learning, I produce aesthetic software to an extremely high standard.
 
-https://github.com/anuraghazra/github-readme
