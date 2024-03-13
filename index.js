@@ -32,7 +32,7 @@ function displayItemsOnHomePage() {
   }
 
   let item={
-    item_image:'![1 (1)](https://github.com/zubairahmad57/Myntra-clone-/assets/130262520/4d3eb4fb-3b68-4092-abb0-59b70dcecd3f)':
+    item_image:'https://github.com/zubairahmad57/Myntra-clone-/issues/5#issue-2184561481':
   }
   let innerHtml = '';
   items.forEach(item => {
