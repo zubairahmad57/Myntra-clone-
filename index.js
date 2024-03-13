@@ -30,11 +30,15 @@ function displayItemsOnHomePage() {
   if (!itemsContainerElement) {
     return;
   }
+
+  let item={
+    item_image:'1 (1).jpg':
+  }
   let innerHtml = '';
   items.forEach(item => {
     innerHtml += `
     <div class="item-container">
-      <img class="item-image" src="${item.image}" alt="item image">
+      <img class="item-image" src="${item.item_image}" alt="item image">
       <div class="rating">
           ${item.rating.stars} ⭐ | ${item.rating.count}
       </div>
